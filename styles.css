@@ -1,0 +1,32 @@
+*{
+    background-color: blue;
+}
+p#logo-text{
+    color: white;
+    align-self: center;
+    text-align: right;
+    margin-left: 90px;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+img.logo{
+    height: 100px;
+    width: 100px;
+    border-radius:30%;
+}
+h1.logo{
+    display: flex;
+    flex-direction: row;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    align-self: center;
+    margin-left: 30%;
+    white-space: nowrap;
+}

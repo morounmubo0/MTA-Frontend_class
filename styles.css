@@ -12,7 +12,7 @@ p#logo-text{
 img.logo{
     height: 100px;
     width: 100px;
-    border-radius:30%;
+    border-radius:50%;
 }
 h1.logo{
     display: flex;
